@@ -1,0 +1,3 @@
+source:
+  git: "https://github.com/mip-org/package2.git"
+  branch: "main"
